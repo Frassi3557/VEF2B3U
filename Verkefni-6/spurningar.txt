@@ -1,0 +1,7 @@
+1.  getElementById() er fljótlegast vegna þess að vafrinn finnur bara id-ið og þarf ekki að fara í gegnum öll objectin.
+
+2.  
+
+3.  Hægt er að fjarlægja whitespace með því að fjarlægja öll bil í kóðanum.
+
+4.  
