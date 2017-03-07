@@ -1,0 +1,13 @@
+2.  
+    1. Syntax Error, gæsalappirnar lokast tæknilega séð aldrei.
+    2. Type Error, Document er ekki function.
+    3. Syntax Error, vantar kommu á milli strengjanna.
+    4. Type Error, b.getarea() er ekki function.
+    5. Reference Error, heigt er ekki til í þessu samhengi.
+    
+3.  
+    5, því b = 5.
+    
+4.
+    Aurelio De Rosa
+    John Doe

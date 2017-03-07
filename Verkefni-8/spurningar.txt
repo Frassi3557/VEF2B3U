@@ -1,0 +1,12 @@
+1. Hægt er að binda event við element með HTML, Hefðbundið DOM og DOM level 2.
+   DOM level 2 er best vegna þess að event getur kallað á mörg föll, sem minnkar líkur á árekstri milli skrifta.
+   
+2. Callback er þegar fall(þegar það er búið að keyra), kallar á annað fall, er notað til að koma í veg fyrir stöðvun á kóða ef ákveðið fall þarf að bíða eftir einhverju.
+    
+3. Event Loop er "biðröð" fyrir callback föll,  
+
+4.
+
+5. False þýðir að vafrinn mun nota "Event Bubbling", þar sem eventið byrjar á nákvæmasta elementinu(t.d. <a>), og heldur áfram þangað til að það nær minnst nákvæmasta elementinu(document).
+
+6. 
