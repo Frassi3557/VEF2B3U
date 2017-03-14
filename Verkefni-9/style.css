@@ -1,0 +1,12 @@
+#spurning:hover {
+  cursor: pointer;
+}
+.active, .correct:hover {
+  cursor: pointer;
+}
+.active {
+  background-color: red;
+}
+.correct {
+  background-color: green;
+}
