@@ -76,7 +76,7 @@ elContainer.addEventListener('click', function(e) {
 elContainer.addEventListener('click', function(e) {
   if($counter == 4) {
     elContainer.innerHTML = "";
-    document.write("Þú varst með ", score, " rétt svör og ", wrongAnswers, " röng svör.");
+    document.write("Rétt svör: ", score, "<br>", "Röng svör: ", wrongAnswers);
   }
 });
 
